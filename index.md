@@ -43,5 +43,5 @@ layout: page
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="cn" dir="ltr">欢迎联系，合作交流！2024.12</script>
+<blockquote class="twitter-tweet"><p lang="cn" dir="ltr">欢迎联系，合作交流！2024.12
 
