@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: Publications
+title: 科学研究
 ---
 
 > (†: equal contribution, ~: corresponding author)
