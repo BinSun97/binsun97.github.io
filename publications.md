@@ -8,6 +8,10 @@ title: 科学研究
 
 ## 学术论文
 
+- [On-chip stackable dielectric laser accelerator](https://www.mdpi.com/2304-6732/10/3/303)<br>
+Huaping Zang~, Zhihao Cui, Lai Wei~, Hongjie Liu, Quanping Fan, Yangfan He, **Bin Sun**, Jihui Chen, Leifeng Cao~<br>
+**Photonics**, 2023-03.<br>
+
 - [On-chip stackable dielectric laser accelerator](https://link.springer.com/article/10.1007/s41365-023-01174-7)<br>
 **Bin Sun**~, Yang-Fan He, Ruo-Yun Luo, Tai-Yang Zhang, Qiang Zhou, Shao-Yi Wang, Jian Zheng~, Zong-Qing Zhao~<br>
 **Nuclear Science and Techniques**, 2023-02.<br>
