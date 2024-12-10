@@ -10,10 +10,5 @@ title: 博客
 
 - 
 
-## Leave a Message 欢迎留言
-
-<br>
-
-{% include disqus.html %} 
 
 <br>
