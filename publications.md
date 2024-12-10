@@ -8,7 +8,19 @@ title: 科学研究
 
 ## 学术论文
 
-- [On-chip stackable dielectric laser accelerator](https://www.mdpi.com/2304-6732/10/3/303)<br>
+- [On-chip ultrafast stackable dielectric laser positron accelerator](https://iopscience.iop.org/article/10.1088/1674-1056/ad188e)<br>
+**Bin Sun**~, Yangfan He, Chenhao Pan, Sijie Fan, Du Wang, Shaoyi Wang, Zongqing Zhao~<br>
+**Chinese Physics B**, 2024-03.<br>
+
+- [Structure and material study of dielectric laser accelerators based on the inverse Cherenkov effect](https://iopscience.iop.org/article/10.1088/1674-1056/acc05a)<br>
+Yang-Fan He~, **Bin Sun**, Ming-Jiang Ma, Wei Li, Zhi-Hao Cui, Zong-Qing Zhao~<br>
+**Chinese Physics B**, 2023-11.<br>
+
+- [Structure and material study of dielectric laser accelerators based on the inverse Cherenkov effect](https://iopscience.iop.org/article/10.1088/1674-1056/acdc0a)<br>
+**Bin Sun**~, Yang-Fan He, Ruo-Yun Luo, Tai-Yang Zhang, Qiang Zhou, Shao-Yi Wang, Du Wang, Zong-Qing Zhao~<br>
+**Chinese Physics B**, 2023-09.<br>
+
+- [Statistical Analysis of Single-Order Diffraction Grating with Quasi-Random Structures](https://www.mdpi.com/2304-6732/10/3/303)<br>
 Huaping Zang~, Zhihao Cui, Lai Wei~, Hongjie Liu, Quanping Fan, Yangfan He, **Bin Sun**, Jihui Chen, Leifeng Cao~<br>
 **Photonics**, 2023-03.<br>
 
