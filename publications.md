@@ -8,6 +8,10 @@ title: 科学研究
 
 ## 学术论文
 
+- [On-chip stackable dielectric laser accelerator](https://link.springer.com/article/10.1007/s41365-023-01174-7)<br>
+**Bin Sun**~, Yang-Fan He, Ruo-Yun Luo, Tai-Yang Zhang, Qiang Zhou, Shao-Yi Wang, Jian Zheng~, Zong-Qing Zhao~<br>
+**Nuclear Science and Techniques**, 2023-02.<br>
+
 - [Dielectric Laser Accelerators Driven by Ultrashort, Ultraintense Long-Wave Infrared Lasers](https://spj.science.org/doi/10.34133/ultrafastscience.0050)<br>
 Xuehan Mei†, Rongwei Zha†, Yiming Pan, Shaoyi Wang, **Bin Sun**, Cheng Lei, Changjun Ke~, Zongqing Zhao~, Du Wang~<br>
 **Ultrafast Science**, 2023-01.<br>
