@@ -6,21 +6,19 @@ title: 科学研究
 
 > (†: equal contribution, ~: corresponding author)
 
-## 研究论文
+## 学术论文
+
+- [Dielectric Laser Accelerators Driven by Ultrashort, Ultraintense Long-Wave Infrared Lasers](https://spj.science.org/doi/10.34133/ultrafastscience.0050)<br>
+Xuehan Mei†, Rongwei Zha†, Yiming Pan, Shaoyi Wang, **Bin Sun**, Cheng Lei, Changjun Ke~, Zongqing Zhao~, Du Wang~<br>
+**Ultrafast Science**, 2023-01.<br>
 
 - [Topology optimization of on-chip integrated laser-driven particle accelerator](https://link.springer.com/article/10.1007/s41365-022-01101-2)<br>
 Yang-Fan He~, **Bin Sun**, Ming-Jiang Ma, Wei Li, Qiang-You He, Zhi-Hao Cui, Shao-Yi Wang, Zong-Qing Zhao~<br>
 **Nuclear Science and Techniques**, 2022-09.<br>
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
-
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
-
-  <br>
-
 ---
 
-## Ongoing Project
+## 在研项目
 
 - Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
 
@@ -40,7 +38,7 @@ To match the ubiquitous connectivity and heterogeneous networking characteristic
 
 ---
 
-## Early Project
+## 结题项目
 
 - [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
 
