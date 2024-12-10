@@ -60,5 +60,5 @@ title: 关于我
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="cn" dir="ltr">欢迎联系，合作交流！<br>（点击左侧头像下方邮件标志即可）<br>2024.12
+<blockquote class="twitter-tweet"><p lang="cn" dir="ltr">欢迎联系，合作交流！<br>2024.12
 
