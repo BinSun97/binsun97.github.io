@@ -6,7 +6,11 @@ title: 科学研究
 
 > (†: equal contribution, ~: corresponding author)
 
-## Conference Paper
+## 研究论文
+
+- [Topology optimization of on-chip integrated laser-driven particle accelerator]((https://link.springer.com/article/10.1007/s41365-022-01101-2))<br>
+Yang-Fan He†~, **Bin Sun**, Ming-Jiang Ma, Wei Li, Qiang-You He, Zhi-Hao Cui, Shao-Yi Wang, Zong-Qing Zhao~<br>
+**Nuclear Science and Techniques**, 2022-09.<br>
 
 - [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
 
