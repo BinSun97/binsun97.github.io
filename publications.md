@@ -89,7 +89,7 @@ Yang-Fan He~, **Bin Sun**, Ming-Jiang Ma, Wei Li, Qiang-You He, Zhi-Hao Cui, Sha
 
 - **少周期激光脉冲与氦原子气体作用产生太赫兹辐射的研究**<br>
 **孙斌**（导师：胡广月）<br>
-  中国科学技术大学本科毕业论文，2014-05.<br>
+  中国科学技术大学本科毕业论文，2018-05.<br>
 
 <br>
 
