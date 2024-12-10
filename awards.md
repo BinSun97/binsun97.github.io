@@ -1,29 +1,35 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: 奖励荣誉
 ---
 
-> Update: 20th Sep 2024
+> Update: 12 2024
 
-## Scholarships
+## 福建技术师范学院时期
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 2024年福建省引进人才-专业技术类（教育科研）引进生
 
-## Competitions
+<br>
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+## 硕博时期
+
+- **奖学金：**
+中国工程物理研究院研究生院优秀学生奖学金
+中国工程物理研究院研究生院学业奖学金
+- **活动：**
+激光聚变研究中心第八届研究生学术交流会优秀口头报告
+
+<br>
+
+## 本科时期
+
+- **奖学金：**
+  中国科学技术大学优秀学生奖学金
+  唐仲英德育奖学金
+  
+- **活动：**
+  中国科学技术大学“新生研讨课”优秀奖
+  BOE校园创新挑战赛华东赛区三等奖
 
 <br>
