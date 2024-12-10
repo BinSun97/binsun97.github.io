@@ -4,13 +4,26 @@ permalink: /publications/index.html
 title: 科学研究
 ---
 
-> (†: equal contribution, ~: corresponding author)
+## 研究方向
+
+- 激光电介质相互作用
+  [1]激光电介质驱动的新粒子加速模式研究
+  [2]激光电介质驱动的新辐射机制研究
+
+<br>
+
+---
 
 ## 学术论文
+> (†: equal contribution, ~: corresponding author)
 
 - [On-chip ultrafast stackable dielectric laser positron accelerator](https://iopscience.iop.org/article/10.1088/1674-1056/ad188e)<br>
 **Bin Sun**~, Yangfan He, Chenhao Pan, Sijie Fan, Du Wang, Shaoyi Wang, Zongqing Zhao~<br>
 **Chinese Physics B**, 2024-03.<br>
+
+- [Generation of high-quality proton beam in nanobrush targets driven by PW laser pulse](https://www.hplpb.com.cn/cn/article/doi/10.11884/HPLPB202436.230440)<br>
+Yang Yue, **Sun Bin**, Deng Zhigang, Teng Jian, He Shukai, Zhang Bo, Wang Shaoyi, Zhang Zhimeng, Yu Minghai, Wen Jiaxing, Tan Fang, Yan Yonghong, Wang Zitao, Zhou Kainan, Chen Zhongjing, Wu Yuchi, Zhou Weimin, Gu Yuqiu, Zhao Zongqing~<br>
+**High Power Laser and Particle Beams**, 2024-01.<br>
 
 - [Structure and material study of dielectric laser accelerators based on the inverse Cherenkov effect](https://iopscience.iop.org/article/10.1088/1674-1056/acc05a)<br>
 Yang-Fan He~, **Bin Sun**, Ming-Jiang Ma, Wei Li, Zhi-Hao Cui, Zong-Qing Zhao~<br>
@@ -36,34 +49,34 @@ Xuehan Mei†, Rongwei Zha†, Yiming Pan, Shaoyi Wang, **Bin Sun**, Cheng Lei, 
 Yang-Fan He~, **Bin Sun**, Ming-Jiang Ma, Wei Li, Qiang-You He, Zhi-Hao Cui, Shao-Yi Wang, Zong-Qing Zhao~<br>
 **Nuclear Science and Techniques**, 2022-09.<br>
 
+<br>
+
 ---
 
 ## 在研项目
 
-- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
-
-To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
+- 暂无。
 
 <br>
 
 ---
 
-## Degree Thesis
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
-
----
-
 ## 结题项目
 
-- [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
+- 基于光控微结构腔的芯片加速器关键技术研究，国防基础科研计划一般项目，参与（排名第四），2021~2024<br>
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+<br>
+  
+---
 
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+## 学位论文
 
-  <br>
+- [基于逆切伦科夫效应的电介质激光加速研究]<br>
+**孙斌**（导师：赵宗清、郑坚），中国科学技术大学博士学位论文，2024-05.<br>
+
+- [少周期激光脉冲与氦原子气体作用产生太赫兹辐射的研究]<br>
+**孙斌**（导师：胡广月），中国科学技术大学本科毕业论文，2014-05.<br>
+
+<br>
+
+---
