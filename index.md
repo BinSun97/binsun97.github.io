@@ -31,7 +31,7 @@ title: 关于我
   主要研究：<br>[1]信息、病毒等的传播机制研究<br>[2]高性能的粒子计算模拟平台开发
 
 - 更多科研信息详见**[科学研究](https://binsun97.github.io/research/)**页面<br>
-- 更多招生信息详见**组内成员**页面<br>
+- 更多招生信息详见**[组内成员](https://binsun97.github.io/members/)**页面<br>
 
 ---
 
