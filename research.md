@@ -28,7 +28,7 @@ title: 科学研究
 
 ---
 
-## 部分学术论文（时间顺序）
+## 部分学术论文（时间倒序）
 > (†: equal contribution, ~: corresponding author)<br>
 
 - [Attosecond MeV γ-ray pulse compression via radiation-lifetime shortening in a longitudinal magnetic field](https://pubs.aip.org/aip/apl/article/128/11/111103/3383672/Attosecond-MeV-ray-pulse-compression-via-radiation)<br>
