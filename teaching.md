@@ -4,7 +4,7 @@ permalink: /teaching/index.html
 title: 教学信息
 ---
 
-**<font color="#990000">教学相长</font>**
+**<font color="#990000">教学相长探真知</font>**
 <br>
 > Update: 03 2026
 
