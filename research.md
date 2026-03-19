@@ -8,26 +8,29 @@ title: 科学研究
 
 ## 研究方向
 
-- **激光电介质相互作用**<br>
-  主要研究：<br>
-  [1]激光电介质驱动的新粒子加速模式研究<br>
-  [2]激光电介质驱动的新辐射机制研究
+- **基于高能激光的加速器与辐射源**<br>
+  主要研究：<br>[1]基于高能激光与微纳米结构的新粒子加速模式研究<br>[2]基于高能激光与微纳米结构的辐射机制研究
   
-- **激光等离子体相互作用**<br>
-  主要研究：<br>
-  [1]激光电介质驱动的新粒子加速模式研究<br>
-  [2]激光电介质驱动的新辐射机制研究<br>[3]实验室天体物理研究
+- **实验室天体物理**<br>
+  主要研究：<br>[1]射线暴偏振异常成因研究<br>[2]高能宇宙线成因研究<br>
   
-- **计算物理**<br>
-  主要研究：<br>
-  [1]高性能的大数据处理平台开发<br>
-  [2]高性能的粒子计算模拟平台开发
+- **医学物理**<br>
+  主要研究：<br>[1]粒子放疗新机制研究<br>[2]射线成像先进算法研究
+  
+- **复杂系统**<br>
+  主要研究：<br>[1]信息、病毒等的传播机制研究<br>[2]高性能的粒子计算模拟平台开发
 <br>
-
 ---
 
-## 学术论文
+## 部分学术论文（时间顺序）
 > (†: equal contribution, ~: corresponding author)
+- [Attosecond MeV γ-ray pulse compression via radiation-lifetime shortening in a longitudinal magnetic field](https://pubs.aip.org/aip/apl/article/128/11/111103/3383672/Attosecond-MeV-ray-pulse-compression-via-radiation)<br>
+Pengfan Chen; Yanli Long; Anrong Fan; Yuhao Feng; **Bin Sun**~; Xiaofei Lan; Yangfan He<br>
+**Applied Physics Letters**, 2026-03.<br>
+
+- [Generation of attosecond γ-ray pulse train driven by a Laguerre Gaussian laser in conical frustum](https://iopscience.iop.org/article/10.1088/1361-6587/ae02c3)<br>
+Pengfan Chen; Hailong Zhou; Li Xiong; Xin Chen; Yuanping Tang; Yuhao Feng; Xiaofei Lan~; **Bin Sun**~; Yangfan He~<br>
+**Plasma Physics and Controlled Fusion**, 2025-09.<br>
 
 - [On-chip ultrafast stackable dielectric laser positron accelerator](https://iopscience.iop.org/article/10.1088/1674-1056/ad188e)<br>
 **Bin Sun**~, Yangfan He, Chenhao Pan, Sijie Fan, Du Wang, Shaoyi Wang, Zongqing Zhao~<br>
