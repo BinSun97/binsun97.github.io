@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /awards/index.html
+permalink: /members/index.html
 title: 组内成员
 ---
 
