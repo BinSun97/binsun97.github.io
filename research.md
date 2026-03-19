@@ -18,12 +18,15 @@ title: 科学研究
   主要研究：<br>[1]粒子放疗新机制研究<br>[2]射线成像先进算法研究
   
 - **复杂系统**<br>
-  主要研究：<br>[1]信息、病毒等的传播机制研究<br>[2]高性能的粒子计算模拟平台开发
+  主要研究：<br>[1]信息、病毒等的传播机制研究<br>[2]高性能的粒子计算模拟平台开发<br>
+
 <br>
+
 ---
 
 ## 部分学术论文（时间顺序）
-> (†: equal contribution, ~: corresponding author)
+> (†: equal contribution, ~: corresponding author)<br>
+
 - [Attosecond MeV γ-ray pulse compression via radiation-lifetime shortening in a longitudinal magnetic field](https://pubs.aip.org/aip/apl/article/128/11/111103/3383672/Attosecond-MeV-ray-pulse-compression-via-radiation)<br>
 Pengfan Chen; Yanli Long; Anrong Fan; Yuhao Feng; **Bin Sun**~; Xiaofei Lan; Yangfan He<br>
 **Applied Physics Letters**, 2026-03.<br>
@@ -31,6 +34,10 @@ Pengfan Chen; Yanli Long; Anrong Fan; Yuhao Feng; **Bin Sun**~; Xiaofei Lan; Yan
 - [Generation of attosecond γ-ray pulse train driven by a Laguerre Gaussian laser in conical frustum](https://iopscience.iop.org/article/10.1088/1361-6587/ae02c3)<br>
 Pengfan Chen; Hailong Zhou; Li Xiong; Xin Chen; Yuanping Tang; Yuhao Feng; Xiaofei Lan~; **Bin Sun**~; Yangfan He~<br>
 **Plasma Physics and Controlled Fusion**, 2025-09.<br>
+
+- [Analysis of spatio-temporal coupling distortion introduced by assembly and alignment errors of achromatic lens in ultrafast and ultraintense laser systems](https://www.hplpb.com.cn/cn/article/doi/10.11884/HPLPB202537.250002)<br>
+Xu Haotian; Wang Xiao~; Li Wei; **Sun Bin**; Wang Jimin; Wei Pengyu; Mu Jie; Li Gang; Zuo Yanlei<br>
+**High Power Laser and Particle Beams**, 2025-07.<br>
 
 - [On-chip ultrafast stackable dielectric laser positron accelerator](https://iopscience.iop.org/article/10.1088/1674-1056/ad188e)<br>
 **Bin Sun**~, Yangfan He, Chenhao Pan, Sijie Fan, Du Wang, Shaoyi Wang, Zongqing Zhao~<br>
@@ -70,7 +77,17 @@ Yang-Fan He~, **Bin Sun**, Ming-Jiang Ma, Wei Li, Qiang-You He, Zhi-Hao Cui, Sha
 
 ## 在研项目
 
-- 
+- [1]磁陀星极端环境下高能辐射偏振异常物理机制的粒子模拟研究<br>
+  四川省自然科学基金面上项目<br>
+  主持2025~今<br>
+
+- [2]带电粒子加速及辐射机制的研究<br>
+  西华师范大学博士启动基金<br>
+  主持2025~今<br>
+
+- [3]基于电介质激光加速原理的激光直接离子加速研究<br>
+  西华师范大学基本科研业务费-需求引领<br>
+  主持2025~今<br>
 
 <br>
 
