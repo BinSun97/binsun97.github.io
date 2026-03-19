@@ -9,7 +9,7 @@ owner:
   name: 孙斌
   avatar: chuizi1.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: binsun@ustc.edu
+  email: binsun.ustc@vip.163.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
@@ -40,8 +40,8 @@ links:
     url: /
   - title: 科学研究
     url: /research/
-  - title: 奖励荣誉
-    url: /awards/
+  - title: 组内成员
+    url: /members/
   - title: 教学信息
     url: /teaching/
   #- title: Startups
