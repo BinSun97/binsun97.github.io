@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /blogs/IPP/index.html
+title: 博客
+---
+
 
 ## 粒子物理导论（暂定目录）<br>
 <br>
