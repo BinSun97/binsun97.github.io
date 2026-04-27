@@ -21,8 +21,8 @@ title: 组内成员-陈鹏帆
 <br>
 
 - **更多信息**<br>
--个人主页：https://yuan5383.github.io/ <br>
--科研主页：https://orcid.org/0009-0000-1908-1400 <br>
+-个人主页：[https://yuan5383.github.io/](https://yuan5383.github.io/) <br>
+-科研主页：[https://orcid.org/0009-0000-1908-1400](https://orcid.org/0009-0000-1908-1400) <br>
 <br>
 
 ---
