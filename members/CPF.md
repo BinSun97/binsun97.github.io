@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /members/index.html
+permalink: /members/CPF/index.html
 title: 组内成员-陈鹏帆
 ---
 
