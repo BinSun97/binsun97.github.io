@@ -36,7 +36,7 @@ title: 科学研究
 
 ---
 
-## 学术论文（时间倒序）
+## 学术论文
 > (†: equal contribution, ~: corresponding author)<br>
 
 ### <font color="#990000">2026</font>
@@ -45,6 +45,9 @@ title: 科学研究
 - [Attosecond MeV γ-ray pulse compression via radiation-lifetime shortening in a longitudinal magnetic field](https://pubs.aip.org/aip/apl/article/128/11/111103/3383672/Attosecond-MeV-ray-pulse-compression-via-radiation)<br>
 Pengfan Chen; Yanli Long; Anrong Fan; Yuhao Feng; **Bin Sun**~; Xiaofei Lan; Yangfan He<br>
 **Applied Physics Letters**, 2026-03.<br>
+
+<br>
+--
 
 ### <font color="#990000">2025</font>
 <br>
@@ -57,6 +60,9 @@ Pengfan Chen; Hailong Zhou; Li Xiong; Xin Chen; Yuanping Tang; Yuhao Feng; Xiaof
 Xu Haotian; Wang Xiao~; Li Wei; **Sun Bin**; Wang Jimin; Wei Pengyu; Mu Jie; Li Gang; Zuo Yanlei<br>
 **High Power Laser and Particle Beams**, 2025-07.<br>
 
+<br>
+--
+
 ### <font color="#990000">2024</font>
 <br>
 
@@ -67,6 +73,9 @@ Xu Haotian; Wang Xiao~; Li Wei; **Sun Bin**; Wang Jimin; Wei Pengyu; Mu Jie; Li 
 - [Generation of high-quality proton beam in nanobrush targets driven by PW laser pulse](https://www.hplpb.com.cn/cn/article/doi/10.11884/HPLPB202436.230440)<br>
 Yang Yue, **Sun Bin**, Deng Zhigang, Teng Jian, He Shukai, Zhang Bo, Wang Shaoyi, Zhang Zhimeng, Yu Minghai, Wen Jiaxing, Tan Fang, Yan Yonghong, Wang Zitao, Zhou Kainan, Chen Zhongjing, Wu Yuchi, Zhou Weimin, Gu Yuqiu, Zhao Zongqing~<br>
 **High Power Laser and Particle Beams**, 2024-01.<br>
+
+<br>
+--
 
 ### <font color="#990000">2023</font>
 <br>
@@ -90,6 +99,9 @@ Huaping Zang~, Zhihao Cui, Lai Wei~, Hongjie Liu, Quanping Fan, Yangfan He, **Bi
 - [Dielectric Laser Accelerators Driven by Ultrashort, Ultraintense Long-Wave Infrared Lasers](https://spj.science.org/doi/10.34133/ultrafastscience.0050)<br>
 Xuehan Mei†, Rongwei Zha†, Yiming Pan, Shaoyi Wang, **Bin Sun**, Cheng Lei, Changjun Ke~, Zongqing Zhao~, Du Wang~<br>
 **Ultrafast Science**, 2023-01.<br>
+
+<br>
+--
 
 ### <font color="#990000">2022</font>
 <br>
