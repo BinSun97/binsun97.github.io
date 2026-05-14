@@ -78,7 +78,6 @@ title: 关于我
 
 ---
 
-<br>
 >欢迎联系，合作交流！（binsun.ustc@vip.163.com）<br>
 >2026.04<br>
 
