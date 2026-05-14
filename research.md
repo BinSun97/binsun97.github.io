@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: 科学研究
 ---
 
-**<font color="#990000">细推物理须行乐，何用浮名绊此身</font>**
+**<font color="#8B0000">细推物理须行乐，何用浮名绊此身</font>**
 <br>
 > Update: 04 2026
 
@@ -12,7 +12,7 @@ title: 科学研究
 
 ## 研究方向
   
-### 高能量密度物理
+### <font color="#0132e0">高能量密度物理</font>
 高能量密度物理特指能量密度高于100 kJ/cc的物质中的物理现象，是惯性约束聚变、致密天体等领域的基础学科，也是当前物理学的前沿领域之一。<br>
 
 - **基于高能激光的加速器与辐射源**<br>
@@ -25,13 +25,13 @@ title: 科学研究
   <br>
   本人从工作后开始与学生共同探索此方向的研究，是本人目前较为感兴趣的研究领域。<br>
 
-### 惯性约束聚变
+### <font color="#0132e0">惯性约束聚变</font>
 惯性约束聚变是受控热核聚变的途径之一，它利用激光器、粒子束、Z箍缩等高功率驱动器，压缩和加热氘氚聚变燃料，使之在飞散之前发生显著的聚变燃烧，释放大量核能。惯性约束聚变在核武器库存管理、聚变能源和平利用等方面有重要的应用前景。目前，已经实现惯性约束聚变点火。<br>
 
 - **基于高能激光的惯性约束聚变**<br>
   主要研究：<br>[1] 激光烧蚀与靶面压缩<br>[2] 快电子/快离子输运<br>[3] 局域不稳定性与微扰演化
 
-### 交叉领域
+### <font color="#0132e0">交叉领域</font>
 
 - **医学物理**<br>
   主要研究：<br>[1] 粒子放疗新机制研究<br>[2] 射线成像先进算法研究<br>
@@ -48,13 +48,13 @@ title: 科学研究
 ## 学术论文
 > (†: equal contribution, ~: corresponding author)<br>
 
-### <font color="#990000">2026</font>
+### <font color="#8B0000">2026</font>
 
 - [Attosecond MeV γ-ray pulse compression via radiation-lifetime shortening in a longitudinal magnetic field](https://pubs.aip.org/aip/apl/article/128/11/111103/3383672/Attosecond-MeV-ray-pulse-compression-via-radiation)<br>
 Pengfan Chen; Yanli Long; Anrong Fan; Yuhao Feng; **Bin Sun**~; Xiaofei Lan; Yangfan He<br>
 **Applied Physics Letters**, 2026-03.<br>
 
-### <font color="#990000">2025</font>
+### <font color="#8B0000">2025</font>
 
 - [Generation of attosecond γ-ray pulse train driven by a Laguerre Gaussian laser in conical frustum](https://iopscience.iop.org/article/10.1088/1361-6587/ae02c3)<br>
 Pengfan Chen; Hailong Zhou; Li Xiong; Xin Chen; Yuanping Tang; Yuhao Feng; Xiaofei Lan~; **Bin Sun**~; Yangfan He~<br>
@@ -64,7 +64,7 @@ Pengfan Chen; Hailong Zhou; Li Xiong; Xin Chen; Yuanping Tang; Yuhao Feng; Xiaof
 Xu Haotian; Wang Xiao~; Li Wei; **Sun Bin**; Wang Jimin; Wei Pengyu; Mu Jie; Li Gang; Zuo Yanlei<br>
 **High Power Laser and Particle Beams**, 2025-07.<br>
 
-### <font color="#990000">2024</font>
+### <font color="#8B0000">2024</font>
 
 - [On-chip ultrafast stackable dielectric laser positron accelerator](https://iopscience.iop.org/article/10.1088/1674-1056/ad188e)<br>
 **Bin Sun**~, Yangfan He, Chenhao Pan, Sijie Fan, Du Wang, Shaoyi Wang, Zongqing Zhao~<br>
@@ -74,7 +74,7 @@ Xu Haotian; Wang Xiao~; Li Wei; **Sun Bin**; Wang Jimin; Wei Pengyu; Mu Jie; Li 
 Yang Yue, **Sun Bin**, Deng Zhigang, Teng Jian, He Shukai, Zhang Bo, Wang Shaoyi, Zhang Zhimeng, Yu Minghai, Wen Jiaxing, Tan Fang, Yan Yonghong, Wang Zitao, Zhou Kainan, Chen Zhongjing, Wu Yuchi, Zhou Weimin, Gu Yuqiu, Zhao Zongqing~<br>
 **High Power Laser and Particle Beams**, 2024-01.<br>
 
-### <font color="#990000">2023</font>
+### <font color="#8B0000">2023</font>
 
 - [Structure and material study of dielectric laser accelerators based on the inverse Cherenkov effect](https://iopscience.iop.org/article/10.1088/1674-1056/acc05a)<br>
 Yang-Fan He~, **Bin Sun**, Ming-Jiang Ma, Wei Li, Zhi-Hao Cui, Zong-Qing Zhao~<br>
@@ -96,7 +96,7 @@ Huaping Zang~, Zhihao Cui, Lai Wei~, Hongjie Liu, Quanping Fan, Yangfan He, **Bi
 Xuehan Mei†, Rongwei Zha†, Yiming Pan, Shaoyi Wang, **Bin Sun**, Cheng Lei, Changjun Ke~, Zongqing Zhao~, Du Wang~<br>
 **Ultrafast Science**, 2023-01.<br>
 
-### <font color="#990000">2022</font>
+### <font color="#8B0000">2022</font>
 
 - [Topology optimization of on-chip integrated laser-driven particle accelerator](https://link.springer.com/article/10.1007/s41365-022-01101-2)<br>
 Yang-Fan He~, **Bin Sun**, Ming-Jiang Ma, Wei Li, Qiang-You He, Zhi-Hao Cui, Shao-Yi Wang, Zong-Qing Zhao~<br>
