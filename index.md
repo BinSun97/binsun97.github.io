@@ -39,8 +39,8 @@ title: 关于我
 - **复杂系统**<br>
   主要研究：<br>[1] 信息、病毒等的传播机制研究<br>[2] 高性能的粒子计算模拟平台开发
 
-- 更多科研信息详见<font color="#0132e0">[科学研究]</font>(https://binsun97.github.io/research/)页面<br>
-- 更多招生信息详见<font color="#0132e0">[组内成员]</font>(https://binsun97.github.io/members/)页面<br>
+- 更多科研信息详见**[科学研究](https://binsun97.github.io/research/)**页面<br>
+- 更多招生信息详见**[组内成员](https://binsun97.github.io/members/)**页面<br>
 
 ---
 
@@ -83,7 +83,7 @@ title: 关于我
 >2026.04<br>
 
 <br>
-**<font color="3241c7"> 本站总访问量 <span id="busuanzi_site_pv">加载中...</span> 次 </font>**<br>
+**<font color="#0132e0"> 本站总访问量 <span id="busuanzi_site_pv">加载中...</span> 次 </font>**<br>
 <br>
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iXPE-y07Uae6R5POZ3N_yKfehASxXmLPU5NzRX8ZXHo&cl=ffffff&w=a"></script>
