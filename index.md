@@ -82,10 +82,6 @@ title: 关于我
 >欢迎联系，合作交流！（binsun.ustc@vip.163.com）<br>
 >2026.04<br>
 
-<br>
-**<font color="#0132e0"> 本站总访问量 <span id="busuanzi_site_pv">加载中...</span> 次 </font>**<br>
-<br>
-
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iXPE-y07Uae6R5POZ3N_yKfehASxXmLPU5NzRX8ZXHo&cl=ffffff&w=a"></script>
 
 ---
