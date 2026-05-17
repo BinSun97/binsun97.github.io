@@ -16,7 +16,7 @@ title: 博客
 
 ### <font color="#7F008E">2026</font>
 
-- Coming Soon~<br>
+- [中国科大核学院**郭赟**副教授来访(2026.05.15)](https://binsun97.github.io/blogs/20260515/)<br>
 
 
 <br>
