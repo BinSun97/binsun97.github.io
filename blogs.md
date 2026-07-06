@@ -16,6 +16,7 @@ title: 博客
 
 ### <font color="#7F008E">2026</font>
 
+- [陈鹏帆通过硕士学位论文答辩(2026.06.27)](https://binsun97.github.io/blogs/20260627/)<br>
 - [陈鹏帆通过硕士学位论文答辩(2026.05.15)](https://binsun97.github.io/blogs/20260515/)<br>
 
 
