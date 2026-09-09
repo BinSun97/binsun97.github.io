@@ -48,6 +48,9 @@ title: 科学研究
 > (†: equal contribution, ~: corresponding author)<br>
 
 ### <font color="#8B0000">2026</font>
+- [Deep learning-optimized dielectric laser accelerators: high-gradient performance and cascaded photonic chip](https://iopscience.iop.org/article/10.1088/1361-6587/ae8696)<br>
+Peng-Bo Chen; Shao-Yi Wang; Wen-Bo Zhang; Rong-Wei Zha; **Bin Sun**; Jia-Xing Wen; Cheng Lei~; Zong-Qing Zhao~; Du Wang~<br>
+**Nuclear Science and Techniques**, 2026-07.<br>
 
 - [Control of spatial properties of plasma high-order harmonics by tailoring the laser transverse profile](https://iopscience.iop.org/article/10.1088/1361-6587/ae8696)<br>
 Anrong Fan; Li Xiong; Pengfan Chen; Jing Ran; Xiaofei Lan~; **Bin Sun**~<br>
