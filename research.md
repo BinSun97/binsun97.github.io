@@ -48,7 +48,7 @@ title: 科学研究
 > (†: equal contribution, ~: corresponding author)<br>
 
 ### <font color="#8B0000">2026</font>
-- [Deep learning-optimized dielectric laser accelerators: high-gradient performance and cascaded photonic chip](https://iopscience.iop.org/article/10.1088/1361-6587/ae8696)<br>
+- [Deep learning-optimized dielectric laser accelerators: high-gradient performance and cascaded photonic chip](https://link.springer.com/article/10.1007/s41365-026-02014-0)<br>
 Peng-Bo Chen; Shao-Yi Wang; Wen-Bo Zhang; Rong-Wei Zha; **Bin Sun**; Jia-Xing Wen; Cheng Lei~; Zong-Qing Zhao~; Du Wang~<br>
 **Nuclear Science and Techniques**, 2026-07.<br>
 
