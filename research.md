@@ -49,6 +49,10 @@ title: 科学研究
 
 ### <font color="#8B0000">2026</font>
 
+- [Control of spatial properties of plasma high-order harmonics by tailoring the laser transverse profile](https://iopscience.iop.org/article/10.1088/1361-6587/ae8696)<br>
+Anrong Fan; Li Xiong; Pengfan Chen; Jing Ran; Xiaofei Lan~; **Bin Sun**~<br>
+**Plasma Physics and Controlled Fusion**, 2026-07.<br>
+
 - [Attosecond MeV γ-ray pulse compression via radiation-lifetime shortening in a longitudinal magnetic field](https://pubs.aip.org/aip/apl/article/128/11/111103/3383672/Attosecond-MeV-ray-pulse-compression-via-radiation)<br>
 Pengfan Chen; Yanli Long; Anrong Fan; Yuhao Feng; **Bin Sun**~; Xiaofei Lan; Yangfan He<br>
 **Applied Physics Letters**, 2026-03.<br>
