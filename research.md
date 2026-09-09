@@ -73,11 +73,11 @@ Xu Haotian; Wang Xiao~; Li Wei; **Sun Bin**; Wang Jimin; Wei Pengyu; Mu Jie; Li 
 ### <font color="#8B0000">2024</font>
 
 - [On-chip ultrafast stackable dielectric laser positron accelerator](https://iopscience.iop.org/article/10.1088/1674-1056/ad188e)<br>
-**Bin Sun**~, Yangfan He, Chenhao Pan, Sijie Fan, Du Wang, Shaoyi Wang, Zongqing Zhao~<br>
+**Bin Sun**~; Yangfan He; Chenhao Pan; Sijie Fan; Du Wang; Shaoyi Wang; Zongqing Zhao~<br>
 **Chinese Physics B**, 2024-03.<br>
 
 - [Generation of high-quality proton beam in nanobrush targets driven by PW laser pulse](https://www.hplpb.com.cn/cn/article/doi/10.11884/HPLPB202436.230440)<br>
-Yang Yue, **Sun Bin**, Deng Zhigang, Teng Jian, He Shukai, Zhang Bo, Wang Shaoyi, Zhang Zhimeng, Yu Minghai, Wen Jiaxing, Tan Fang, Yan Yonghong, Wang Zitao, Zhou Kainan, Chen Zhongjing, Wu Yuchi, Zhou Weimin, Gu Yuqiu, Zhao Zongqing~<br>
+Yang Yue; **Sun Bin**; Deng Zhigang; Teng Jian; He Shukai; Zhang Bo; Wang Shaoyi; Zhang Zhimeng; Yu Minghai; Wen Jiaxing; Tan Fang; Yan Yonghong; Wang Zitao; Zhou Kainan; Chen Zhongjing; Wu Yuchi; Zhou Weimin; Gu Yuqiu; Zhao Zongqing~<br>
 **High Power Laser and Particle Beams**, 2024-01.<br>
 
 ### <font color="#8B0000">2023</font>
